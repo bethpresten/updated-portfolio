@@ -1,0 +1,15 @@
+.navbar {
+  background-color: 159, 209, 182;
+}
+
+#nav-head {
+  font-family: "Kaushan Script", cursive;
+}
+
+.nav-link {
+  font-family: "Cormorant", serif;
+}
+
+.home {
+  background-image: url("./assets/portfolio-background.jpeg");
+}
