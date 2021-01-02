@@ -43,25 +43,16 @@ h3 {
 }
 
 body {
-  /* background-image: url("./portfolio-background.jpeg"); */
-  /* background-repeat: repeat; */
   background-size: 100%;
   background-color: #FACDEE;
 }
 
 #coding-quiz,
 #password-generator,
-#weather-dashboard {
+#weather-dashboard, #track-finder-img, #covid-img, #eat-da-burgers {
   /* padding: 20px; */
   height: 100%;
   width: 100%;
-}
-
-#covid-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 h4 {
